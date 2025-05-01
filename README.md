@@ -1,4 +1,3 @@
-# Node + Jest + TypeScript + tsx boilerplate
+Repro for this bug: 
 
-Boilerplate for running simple TypeScript + Node + Jest tests in 2024. 
-
+https://github.com/ajaishankar/openapi-typescript-fetch/issues/71
